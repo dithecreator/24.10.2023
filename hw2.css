@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main{
+width: 300px;
+list-style: none;
+/* красивости */
+
+border: 1px solid black;
+text-align: center;
+margin: 5px;
+margin-top: 250px;
+}
+
+ .need li{
+    display: inline-block;
+    width: 50px;
+list-style: none;
+/* красивости */
+
+border: 1px solid black;
+text-align: center;
+margin: 5px;
+margin-top: 50px;
+}
+.all{
+    margin-left: 395px;
+}
